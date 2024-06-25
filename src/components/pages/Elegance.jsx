@@ -19,7 +19,7 @@ const Elegance = () => {
       
       <div className={styles.breakerBox}>
 
-        <img className={styles.breaker} src="./src/components/pages/img/sedan.jpeg"/> 
+        <img className={styles.breaker} src="./src/components/img/sedan.jpeg"/> 
         <h2>MOUNT YOUR ELEGANCE</h2>
         <select onChange={handleChange}>
           <option value={'0'}>Select your Engine and Transmission</option>
