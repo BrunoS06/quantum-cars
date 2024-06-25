@@ -1,0 +1,74 @@
+body {
+    margin-bottom: 3em;
+}
+
+
+.buyBreaker {
+    display: flex;
+    justify-content: center;
+}
+
+.breakerBox{ 
+display: flex;
+flex-direction: column;
+max-width: 40vw;
+margin-top: 2em;
+justify-content: center;
+
+}
+
+.priceTitle {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.price {
+    border: 2px solid black;
+    text-align: center;
+    height: 1.3em;
+    width: 6em;
+    margin: 0.6em;
+    font-size: 26px;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: default;
+}
+
+
+
+.breaker {
+    height: 23em;
+    width: 28em;
+}
+
+button {
+    margin-top: 1em;
+    cursor: pointer;
+    height: 3em;
+    width: 6em;
+    color: white;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+    background-color: rgba(3, 16, 34, 0.925);
+    text-align: center;
+}
+
+
+button:hover {
+    background-color: rgba(21, 35, 95, 0.836);
+    transition: 0.8s;
+}
+
+button:active {
+    border: 2px;
+}
+
+select {
+    border: 2.5px solid black;
+    border-radius: 6px;
+
+}
+
+

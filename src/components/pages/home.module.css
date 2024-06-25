@@ -1,0 +1,79 @@
+
+.cars {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 1.5em;
+    margin-top: 2em;
+}
+
+h1 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 35px;
+    margin: 0;
+    
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 21px;
+}
+
+h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 12px;
+}
+
+.carBox {
+    border: 1px solid black;
+    margin: 0.95em;
+    padding: 0.5em;
+    text-align: center;
+}
+
+
+.hatch {
+    height: 22em;
+    width: 24em;
+    margin-top: 1em;
+
+}
+
+.sedan {
+    height: 22em;
+    width: 24em;
+    margin-top: 1em;
+
+}
+
+.suv {
+    height: 22em;
+    width: 24em;
+    margin-top: 1em;
+
+}
+
+
+
+button {
+    cursor: pointer;
+    height: 4em;
+    width: 8em;
+    color: white;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+    background-color: rgb(7, 7, 26);
+}
+
+button:hover {
+    background-color: rgba(21, 35, 95, 0.836);
+    transition: 0.8s;
+}
+
+button:active {
+    border: 2px;
+}
+

@@ -1,0 +1,11 @@
+.end {
+    border: 5px solid rgb(1, 9, 29);
+    border-radius: 10px;
+    margin-top: 8em;
+    margin-left: 8em;
+    width: 70em;
+}
+
+h1 {
+    font-size: 40px;
+}

@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+ 
+}
+
+.header {
+  height: 20vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(7, 7, 26);
+}
+
+.homeButton {
+  margin-top: 0.5em;
+  margin-left: 0.5em;
+  cursor: pointer;
+  height: 3em;
+  width: 5.5em;
+  color: white;
+  font-weight: bold;
+  font-size: 12px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  border-radius: 7px;
+  background-color: rgba(3, 16, 34, 0.925);
+}
