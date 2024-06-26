@@ -12,7 +12,7 @@ const Home = () => {
       <div className={styles.cars}>
 
         <div className={styles.carBox}>
-          <img className={styles.hatch} src="src/components/img/hatch.jpeg"/>
+          <img className={styles.hatch} src="./src/components/img/hatch.jpeg"/>
           <h2>QUANTUM BREAKER</h2>
           <h3>FROM $50.000,00 to $60.000,00</h3>
           <button onClick={() => navigate('breaker')}>BUY</button>
