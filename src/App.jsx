@@ -8,7 +8,7 @@ function App() {
   return (
     <div>   
       <div className="header">
-          <img src="./src/components/pages/img/logo.jpeg"/> 
+          <img src="./src/components/img/logo.jpeg"/> 
       </div>
       <button className='homeButton' onClick={() => navigate('/')}>Home</button>
       <Outlet />
