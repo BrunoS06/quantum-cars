@@ -19,7 +19,7 @@ const Beast = () => {
       
       <div className={styles.breakerBox}>
 
-        <img className={styles.breaker} src="./src/components/img/suv.jpeg"/> 
+        <img className={styles.breaker} src="./suv.jpeg"/> 
         <h2>MOUNT YOUR BEAST</h2>
         <select onChange={handleChange}>
           <option value={'0'}>Select your Engine and Transmission</option>
