@@ -12,6 +12,7 @@ body {
 display: flex;
 flex-direction: column;
 max-width: 40vw;
+min-width: 450px;
 margin-top: 2em;
 justify-content: center;
 
