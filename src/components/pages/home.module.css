@@ -2,7 +2,6 @@
 .cars {
     display: flex;
     flex-wrap: wrap;
-    margin: 1.5em;
     margin-top: 2em;
     min-width: 480px;
     width: 100%;

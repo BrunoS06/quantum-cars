@@ -6,13 +6,15 @@ body {
 .buyBreaker {
     display: flex;
     justify-content: center;
+    margin-left: 3em;
+    margin-right: 3em;
 }
 
 .breakerBox{ 
 display: flex;
 flex-direction: column;
 max-width: 40vw;
-min-width: 450px;
+min-width: 490px;
 margin-top: 2em;
 justify-content: center;
 
