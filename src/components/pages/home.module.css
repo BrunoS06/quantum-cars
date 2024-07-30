@@ -3,8 +3,9 @@
     display: flex;
     flex-wrap: wrap;
     margin-top: 2em;
+    margin-left: 1.5em;
     min-width: 480px;
-    width: 100%;
+    width: 97%;
 }
 
 h1 {

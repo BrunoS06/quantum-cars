@@ -6,8 +6,8 @@ body {
 .buyBreaker {
     display: flex;
     justify-content: center;
-    margin-left: 3em;
-    margin-right: 3em;
+    min-width: 550px;
+    
 }
 
 .breakerBox{ 
@@ -16,6 +16,7 @@ flex-direction: column;
 max-width: 40vw;
 min-width: 490px;
 margin-top: 2em;
+margin: 2em;
 justify-content: center;
 
 }
